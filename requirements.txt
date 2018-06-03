@@ -1,0 +1,5 @@
+Flask==0.10.1
+numpy
+pandas==0.17.1
+SciPy
+scikit-learn==0.17
